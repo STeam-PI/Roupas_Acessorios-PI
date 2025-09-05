@@ -1,6 +1,5 @@
 # Guia de Contribuição
 
-Obrigado por contribuir para este projeto! 🎉  
 Este documento explica como nossa equipe deve colaborar de forma organizada, respeitando as responsabilidades de cada time.
 
 ---
